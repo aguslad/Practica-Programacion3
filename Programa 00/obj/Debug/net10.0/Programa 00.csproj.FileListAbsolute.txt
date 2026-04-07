@@ -1,0 +1,15 @@
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\bin\Debug\net10.0\Programa 00.exe
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\bin\Debug\net10.0\Programa 00.deps.json
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\bin\Debug\net10.0\Programa 00.runtimeconfig.json
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\bin\Debug\net10.0\Programa 00.dll
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\bin\Debug\net10.0\Programa 00.pdb
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\obj\Debug\net10.0\Programa 00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\obj\Debug\net10.0\Programa 00.AssemblyInfoInputs.cache
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\obj\Debug\net10.0\Programa 00.AssemblyInfo.cs
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\obj\Debug\net10.0\Programa 00.csproj.CoreCompileInputs.cache
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\obj\Debug\net10.0\Programa 00.sourcelink.json
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\obj\Debug\net10.0\Programa 00.dll
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\obj\Debug\net10.0\refint\Programa 00.dll
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\obj\Debug\net10.0\Programa 00.pdb
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\obj\Debug\net10.0\Programa 00.genruntimeconfig.cache
+C:\Users\agusl\OneDrive\Desktop\Programacion-III\Programa 00\obj\Debug\net10.0\ref\Programa 00.dll
