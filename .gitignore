@@ -1,0 +1,4 @@
+# Ignorar carpetas y archivos temporales de Visual Studio
+.vs/
+bin/
+obj/
