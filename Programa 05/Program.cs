@@ -6,7 +6,6 @@ class Program
     {
         Console.WriteLine("--- BLOQUE 4: VALORES LÓGICOS (SÍ / NO) ---");
 
-        // Booleano (bool) - Solo true o false
         bool pagoConfirmado = true;
         bool compraRealizada = true;
         bool clienteRegistrado = false;
